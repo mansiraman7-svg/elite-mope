@@ -1,0 +1,18 @@
+{
+  "name": "Elite Mope by MD",
+  "short_name": "EliteMope",
+  "description": "Mobile-first learning and business growth experience for Elite Mope by MD.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6efe6",
+  "theme_color": "#4d1d23",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
